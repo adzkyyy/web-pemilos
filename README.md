@@ -113,4 +113,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 TERIMA KASIH
 
-Created by Muhammad Zaky Adzkiya
+Created by Muhammad Zaky Adzkiya and Sabrina Aska Amalina
